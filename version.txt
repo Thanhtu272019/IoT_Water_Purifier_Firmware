@@ -1,1 +1,0 @@
-C:\Users\PC\Documents\PlatformIO\Projects\MayLocNuoc_V2\.pio\build\esp32dev\firmware.bin
